@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "612452151602",
+    "project_id": "authloglesson",
+    "storage_bucket": "authloglesson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612452151602:android:437c435c415993db02272b",
+        "android_client_info": {
+          "package_name": "com.example.authlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612452151602-4mo14spgbnl942jhk83gapqrt96mf1pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authlog",
+            "certificate_hash": "1a2a86a78b6aa82dd5cbf79e33b28353edd2c547"
+          }
+        },
+        {
+          "client_id": "612452151602-1kkjc8av9uiaonh83mk0nj5hs0b6c9mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuzVcMKW6dpUmhTTwaOnShyouEXLgWywM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612452151602-1kkjc8av9uiaonh83mk0nj5hs0b6c9mr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612452151602-6f932rhb2k0bcof9ucdnel2o0q7fi5v2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authlog"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
